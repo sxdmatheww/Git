@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\matina\matina\bin\Debug\matina.exe.config
+C:\Users\Администратор\source\repos\matina\matina\bin\Debug\matina.exe
+C:\Users\Администратор\source\repos\matina\matina\bin\Debug\matina.pdb
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina_MarkupCompile.cache
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina_MarkupCompile.lref
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.g.resources
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.Properties.Resources.resources
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.exe
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.pdb

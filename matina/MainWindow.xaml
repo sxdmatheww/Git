@@ -1,0 +1,24 @@
+﻿<Window x:Class="matina.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:matina"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Background="red"></Grid>
+        <Grid Grid.Column="1" Background="Black"></Grid>
+        <Image x:Name="v1MWWqDf3rOe3Ney4jl_CtPgYHpoMyn5dl82FUyYqIKZKh5_z8oqFirfg39Uvf02ayHmJFvQRsSIlGfw5vTr1wCO_jpg" Grid.Column="0" Source="v1MWWqDf3rOe3Ney4jl_CtPgYHpoMyn5dl82FUyYqIKZKh5_z8oqFirfg39Uvf02ayHmJFvQRsSIlGfw5vTr1wCO.jpg" VerticalAlignment="top"/>
+        
+        <TextBlock> швепсы </TextBlock>
+        <Label Grid.Column="1" Foreground="White">швепсы</Label>
+
+        <TextBlock > допустим </TextBlock>
+        <Label Grid.Column="1" Foreground="White"></Label>
+    </Grid>
+</Window>
