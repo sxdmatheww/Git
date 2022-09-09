@@ -24,5 +24,10 @@ namespace matina
         {
             InitializeComponent();
         }
+
+        private void Btn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

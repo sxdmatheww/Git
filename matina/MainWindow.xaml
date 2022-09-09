@@ -13,12 +13,11 @@
         </Grid.ColumnDefinitions>
         <Grid Grid.Column="0" Background="red"></Grid>
         <Grid Grid.Column="1" Background="Black"></Grid>
-        <Image x:Name="v1MWWqDf3rOe3Ney4jl_CtPgYHpoMyn5dl82FUyYqIKZKh5_z8oqFirfg39Uvf02ayHmJFvQRsSIlGfw5vTr1wCO_jpg" Grid.Column="0" Source="v1MWWqDf3rOe3Ney4jl_CtPgYHpoMyn5dl82FUyYqIKZKh5_z8oqFirfg39Uvf02ayHmJFvQRsSIlGfw5vTr1wCO.jpg" VerticalAlignment="top"/>
+        <Image x:Name="v1MWWqDf3rOe3Ney4jl_CtPgYHpoMyn5dl82FUyYqIKZKh5_z8oqFirfg39Uvf02ayHmJFvQRsSIlGfw5vTr1wCO_jpg" Grid.Column="0" Source="v1MWWqDf3rOe3Ney4jl_CtPgYHpoMyn5dl82FUyYqIKZKh5_z8oqFirfg39Uvf02ayHmJFvQRsSIlGfw5vTr1wCO.jpg" VerticalAlignment="Top"/>
         
         <TextBlock> швепсы </TextBlock>
         <Label Grid.Column="1" Foreground="White">швепсы</Label>
 
-        <TextBlock > допустим </TextBlock>
-        <Label Grid.Column="1" Foreground="White"></Label>
+        <Button Click="Btn_Click" Height="25" Background="White">Это кнопка</Button>
     </Grid>
 </Window>
