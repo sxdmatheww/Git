@@ -13,3 +13,10 @@ C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.
 C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.exe
 C:\Users\Администратор\source\repos\matina\matina\obj\Debug\matina.pdb
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\Otrasl.g.cs
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\Otrasl.baml
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\App.baml
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\Page1.g.cs
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\Page1.baml
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\Instrument.g.cs
+C:\Users\Администратор\source\repos\matina\matina\obj\Debug\Instrument.baml

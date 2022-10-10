@@ -12,12 +12,26 @@
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Grid Grid.Column="0" Background="red"></Grid>
-        <Grid Grid.Column="1" Background="Black"></Grid>
+        <Grid Grid.Column="1" Background="White"></Grid>
         <Image x:Name="v1MWWqDf3rOe3Ney4jl_CtPgYHpoMyn5dl82FUyYqIKZKh5_z8oqFirfg39Uvf02ayHmJFvQRsSIlGfw5vTr1wCO_jpg" Grid.Column="0" Source="v1MWWqDf3rOe3Ney4jl_CtPgYHpoMyn5dl82FUyYqIKZKh5_z8oqFirfg39Uvf02ayHmJFvQRsSIlGfw5vTr1wCO.jpg" VerticalAlignment="Top"/>
-        
-        <TextBlock> швепсы </TextBlock>
-        <Label Grid.Column="1" Foreground="White">швепсы</Label>
 
-        <Button Click="Btn_Click" Height="25" Background="White">Это кнопка</Button>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="Matina"></Label>
+            <Grid Background="Red" Height="15" VerticalAlignment="Bottom" Margin="10"></Grid>
+
+            <Frame Grid.Row="1" x:Name="MainFrame"></Frame>
+        </Grid>
+
+        <Button Click="Btn_Click" Height="25" Background="White">Информация о компании</Button>
+
+        <Button Click="tehbez" Height="25" Background="White" Margin="0,225,0,157">Техника безопасности</Button>
+
+        <Button Click="Instrument_Click" Height="25" Margin="0,267,0,122">Инструменты 5C</Button>
     </Grid>
+
 </Window>

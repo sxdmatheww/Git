@@ -23,11 +23,24 @@ namespace matina
         public MainWindow()
         {
             InitializeComponent();
+
         }
 
         private void Btn_Click(object sender, RoutedEventArgs e)
         {
+            MainFrame.Navigate(new Otrasl());
+           // Manager.MainFrame = MainFrame;
+        }
 
+        private void tehbez(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Page1());
+            // Manager.MainFrame = MainFrame;
+        }
+
+        private void Instrument_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Instrument());
         }
     }
 }
